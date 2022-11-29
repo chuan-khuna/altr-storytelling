@@ -9,10 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.4.2",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mdx-js/loader": "^2.1.5",
+    "@mdx-js/react": "^2.1.5",
+    "@next/mdx": "^13.0.5",
+    "@visx/group": "^2.10.0",
+    "@visx/mock-data": "^2.15.1",
+    "@visx/scale": "^2.2.2",
+    "@visx/shape": "^2.12.2",
     "eslint": "8.28.0",
     "eslint-config-next": "13.0.5",
+    "framer-motion": "^7.6.15",
     "next": "13.0.5",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "theme-ui": "^0.15.4"
   }
 }
